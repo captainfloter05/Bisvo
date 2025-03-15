@@ -1,4 +1,4 @@
 print("Goida!!!")
 goida = True
-if goida==False
+if goida==True
 	print("plaki plaki")
